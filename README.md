@@ -1,4 +1,4 @@
-![Banner](https://github.com/aisakk/images/blob/master/Component%204.png)
+![Banner](https://github.com/aisakk/images/blob/master/Banner.png)
 
 <!--
 **aisakk/aisakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
